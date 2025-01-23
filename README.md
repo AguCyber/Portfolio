@@ -24,8 +24,7 @@ This document provides an overview of key insights and performance metrics deriv
 [Read More](https://medium.com/@godwinamurawaiye/beta-marketplace-comprehensive-sales-insights-and-recommendations-3916c1e69e18)
 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
+<a href="Beta Marketplace Comprehensive Sales Insight and Recommendations.pdf">Download the Report here (pdf file)</a>
 
 ## CONTACT DETAILS
 
