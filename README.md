@@ -15,13 +15,13 @@ I provide comprehensive training programs in data analysis, visualization, and d
 ## MY PROJECTS
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Beta Marketplace Comprehensive Sales Insight and Recommendations.**
 ![image](Beta market place insight.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This document provides an overview of key insights and performance metrics derived from the Beta Marketplace Comprehensive Sales Insight and Recommendations.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://medium.com/@godwinamurawaiye/beta-marketplace-comprehensive-sales-insights-and-recommendations-3916c1e69e18/])
 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
