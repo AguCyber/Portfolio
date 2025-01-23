@@ -21,7 +21,7 @@ I provide comprehensive training programs in data analysis, visualization, and d
 This document provides an overview of key insights and performance metrics derived from the Beta Marketplace Comprehensive Sales Insight and Recommendations.
 
 
-[Read More](https://medium.com/@godwinamurawaiye/beta-marketplace-comprehensive-sales-insights-and-recommendations-3916c1e69e18/])
+[Read More].https://medium.com/@godwinamurawaiye/beta-marketplace-comprehensive-sales-insights-and-recommendations-3916c1e69e18/])
 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
