@@ -34,7 +34,7 @@ This document provides an overview of key insights and performance metrics deriv
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:godwinamurawaiye@gmail.com">godwinamurawaiye@gmail.com</a></td>
+      <td><[godwinamurawaiye@gmail.com](mailto:godwinamurawaiye@gmail.com)</a></td>
     </tr>
     <tr>
       <td>📞</td>
