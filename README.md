@@ -28,7 +28,7 @@ This document provides an overview of key insights and performance metrics deriv
 
 
 **Superstore Sales Dashboard (2019–2022) — Insights, Analysis and Recommendations.**
-![image](Beta market place insight.png)
+![image](Superstore Dashboard.png)
 
 The Tableau dashboard provides a comprehensive visualization of sales performance, profit trends, and key business metrics for a superstore from 2019 to 2022. It highlights sales and profitability by product sub-category, yearly trends, and geographical distribution of sales.
 
