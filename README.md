@@ -24,7 +24,7 @@ This document provides an overview of key insights and performance metrics deriv
 [Read More](https://medium.com/@godwinamurawaiye/superstore-sales-dashboard-2019-2022-insights-and-analysis-2b5b4350abaf)
 
 
-<a href="Beta Marketplace Comprehensive Sales Insight and Recommendations.pdf">Download the Report here (pdf file)</a>
+<a href="BSuperstore insights and analysis.pdf">Download the Report here (pdf file)</a>
 
 
 **Superstore Sales Dashboard (2019–2022) — Insights, Analysis and Recommendations.**
