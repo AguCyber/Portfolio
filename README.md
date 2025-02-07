@@ -15,16 +15,28 @@ I provide comprehensive training programs in data analysis, visualization, and d
 ## MY PROJECTS
 *A glimpse of some of the projects I've been working on.*
 
-**Beta Marketplace Comprehensive Sales Insight and Recommendations.**
+**Superstore Sales Dashboard (2019–2022) — Insights, Analysis and Recommendations.**
 ![image](Beta market place insight.png)
 
-This document provides an overview of key insights and performance metrics derived from the Beta Marketplace Comprehensive Sales Insight and Recommendations.
+The Tableau dashboard provides a comprehensive visualization of sales performance, profit trends, and key business metrics for a superstore from 2019 to 2022. It highlights sales and profitability by product sub-category, yearly trends, and geographical distribution of sales.
 
 
 [Read More](https://medium.com/@godwinamurawaiye/beta-marketplace-comprehensive-sales-insights-and-recommendations-3916c1e69e18)
 
 
 <a href="Beta Marketplace Comprehensive Sales Insight and Recommendations.pdf">Download the Report here (pdf file)</a>
+
+**Beta Marketplace Comprehensive Sales Insight and Recommendations.**
+![image](Beta market place insight.png)
+
+This document provides an overview of key insights and performance metrics derived from the Beta Marketplace Comprehensive Sales Insight and Recommendations.
+
+
+[Read More](https://medium.com/@godwinamurawaiye/superstore-sales-dashboard-2019-2022-insights-and-analysis-2b5b4350abaf)
+
+
+<a href="Beta Marketplace Comprehensive Sales Insight and Recommendations.pdf">Download the Report here (pdf file)</a>
+
 
 ## CONTACT DETAILS
 
