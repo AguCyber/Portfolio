@@ -33,7 +33,7 @@ The Tableau dashboard provides a comprehensive visualization of sales performanc
 
 [Read More](https://medium.com/@godwinamurawaiye/superstore-sales-dashboard-2019-2022-insights-and-analysis-2b5b4350abaf)
 
-<a href="BSuperstore insights and analysis.pdf">Download the Report here (pdf file)</a>
+<a href="Superstore insights and analysis.pdf">Download the Report here (pdf file)</a>
 
 
 
