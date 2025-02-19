@@ -53,7 +53,7 @@ The Tableau dashboard provides a comprehensive visualization of sales performanc
     </tr>
     <tr>
       <td>📍</td>
-      <td>Kaduna, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
